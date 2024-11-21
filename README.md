@@ -12,7 +12,7 @@ Com testes automatizados, integração contínua via **GitHub Actions** e análi
 
 ---
 
-## 🛠️ Funcionalidades-editeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeei
+## 🛠️ Funcionalidades-editeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeei-qualquercoisa
 
 - 📐 **Cálculo do Volume**: Implementa a fórmula \( V = \pi \cdot r^2 \cdot h \).
 - ✅ **Validação de Dados**: Garante que o raio e a altura sejam valores positivos.
